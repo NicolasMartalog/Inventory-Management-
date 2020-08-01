@@ -1,0 +1,7 @@
+TV Set,45,699.95
+Stereo,82,245.95
+Oven,37,399.97
+Mouse,82,20.99
+Monitor,23,159.99
+Microwave,56,45.96
+HDMI Cable,197,15.67
